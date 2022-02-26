@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f44d:
+# Hyperblog:tw-1f44d:
 
 Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") de Platzi 
 
