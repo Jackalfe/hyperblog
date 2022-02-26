@@ -1,7 +1,8 @@
+# Hyperblog :tw-1f44d:
 
-Un blog increíble para el curso de Git y Github de Platzi
+Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") de Platzi 
 
-> El [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") de Platzi es lo que me hacía falta para mejorar mi situación laboral, esto por ende, me va a beneficiar en mi percepción mensual y en la situación de práctica así como reafirmar mis conocimientos en un 300%. Así también me permitirá incursionar en el mercado laboral de IT y por consiguiente me ayudará triplicar mi salario.
+> El curso de Git y Github de Platzi es lo que me hacía falta para mejorar mi situación laboral, esto por ende, me va a beneficiar en mi percepción mensual y en la situación de práctica así como reafirmar mis conocimientos en un 300%. Así también me permitirá incursionar en el mercado laboral de IT y por consiguiente me ayudará triplicar mi salario.
 
 Podré:
 -Tener un empleo fijo,
